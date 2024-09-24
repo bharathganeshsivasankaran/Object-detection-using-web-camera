@@ -121,9 +121,7 @@ OUTPUT 2
 
 ![Screenshot 2024-09-24 104833](https://github.com/user-attachments/assets/a4563f16-3037-484e-9077-4a734d7cd81e)
 
-OUTPUT 3
 
-![Screenshot 2024-09-24 104833](https://github.com/user-attachments/assets/76cde520-6ddc-455b-88a9-7ef35fbf53e1)
 
 
 ### RESULT:
